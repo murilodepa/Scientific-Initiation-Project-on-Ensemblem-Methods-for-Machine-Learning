@@ -1,0 +1,9 @@
+Tweets em portugues
+text_position = 0
+class_position = 1
+file_name = "tweets_br.csv"
+
+Brexit blog corpus
+text_position = 4
+class_position = 5
+file_name = "brexit_blog_corpus.csv"
